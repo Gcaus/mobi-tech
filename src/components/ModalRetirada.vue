@@ -22,10 +22,10 @@
           </div>
           <div class="option" @click="selectOption('123456')">
             <div class="img-option">
-              <img src="../assets/parafusadeira.png">
+              <img src="../assets/parafuso-1.png">
             </div>
             <div class="text">
-              <p>Parafusadeira</p>
+              <p>Parafuso Sextavado Rosca Inteira 5/16 Pol. X 3/4 Pol.</p>
             </div>
             <div class="code">
               <p>123456</p>
@@ -33,10 +33,10 @@
           </div>
           <div class="option" @click="selectOption('456789')">
             <div class="img-option">
-              <img src="../assets/parafusadeira.png">
+              <img src="../assets/parafuso-2.png">
             </div>
             <div class="text">
-              <p>Parafusadeira</p>
+              <p>Parafuso Sextavado Soberba 1/4 x 70</p>
             </div>
             <div class="code">
               <p>456789</p>
